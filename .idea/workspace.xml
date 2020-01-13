@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65b395eb-615f-4f2e-be55-376daee62070" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:/soft_tool/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\soft_tool\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vsy7p4629yfyMgpVIaGI7X4cSu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.GmallOrderApplication">
+    <configuration name="GmallAdminWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-admin-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.admin.GmallAdminWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.cart.GmallCartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallCasApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-cas" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.cas.GmallCasApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallCmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.cms.GmallCmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-item" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.item.GmallItemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallMbgApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-mbg" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.mbg.GmallMbgApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallOmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-oms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.oms.GmallOmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.order.GmallOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallPmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-pms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.pms.GmallPmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallPortalWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-portal-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.portal.GmallPortalWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.search.GmallSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.sms.GmallSmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallUmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-ums" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.ums.GmallUmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallWmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-wms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.wms.GmallWmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbit-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.rabbit.RabbitDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65b395eb-615f-4f2e-be55-376daee62070" name="Default Changelist" comment="" />
+      <created>1578055932988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578055932988</updated>
+      <workItem from="1578055934252" duration="740000" />
+      <workItem from="1578914382460" duration="431000" />
+      <workItem from="1578914890176" duration="5631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578914423868">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578914423868" />
+    <state x="739" y="279" key="FileChooserDialogImpl" timestamp="1578915214465">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1578915214465" />
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom" timestamp="1578921292168">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578921292168" />
+    <state width="1877" height="305" key="GridCell.Tab.0.center" timestamp="1578921292168">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578921292168" />
+    <state width="1877" height="305" key="GridCell.Tab.0.left" timestamp="1578921292168">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578921292168" />
+    <state width="1877" height="305" key="GridCell.Tab.0.right" timestamp="1578921292168">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578921292168" />
+    <state width="1877" height="305" key="GridCell.Tab.1.bottom" timestamp="1578921292169">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578921292169" />
+    <state width="1877" height="305" key="GridCell.Tab.1.center" timestamp="1578921292169">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578921292169" />
+    <state width="1877" height="305" key="GridCell.Tab.1.left" timestamp="1578921292169">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578921292169" />
+    <state width="1877" height="305" key="GridCell.Tab.1.right" timestamp="1578921292169">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578921292169" />
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog" timestamp="1578915581918">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578915581918" />
+    <state x="453" y="166" key="SettingsEditor" timestamp="1578922536200">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="453" y="166" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578922536200" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1578914891237">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578914891237" />
+    <state x="745" y="389" key="git4idea.rebase.GitRebaseDialog" timestamp="1578922094344">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="745" y="389" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578922094344" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1578916113227">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1578916113227" />
+  </component>
+</project>

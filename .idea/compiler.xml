@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gmall-portal-web" />
+        <module name="gmall-item" />
+        <module name="gmall-oms" />
+        <module name="gmall-pms" />
+        <module name="gmall-sms" />
+        <module name="gmall-ums" />
+        <module name="gmall-order" />
+        <module name="gmall-wms" />
+        <module name="gmall-cart" />
+        <module name="gmall-api" />
+        <module name="gmall-common" />
+        <module name="gmall-admin-web" />
+        <module name="gmall-mbg" />
+        <module name="gmall-cms" />
+        <module name="gmall-cas" />
+        <module name="rabbit-demo" />
+        <module name="gmall-seckill" />
+        <module name="gmall-search" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gmall-admin-web" target="1.8" />
+      <module name="gmall-api" target="1.8" />
+      <module name="gmall-cart" target="1.8" />
+      <module name="gmall-cas" target="1.8" />
+      <module name="gmall-cms" target="1.8" />
+      <module name="gmall-common" target="1.8" />
+      <module name="gmall-item" target="1.8" />
+      <module name="gmall-mbg" target="1.8" />
+      <module name="gmall-oms" target="1.8" />
+      <module name="gmall-order" target="1.8" />
+      <module name="gmall-parent" target="1.8" />
+      <module name="gmall-pms" target="1.8" />
+      <module name="gmall-portal-web" target="1.8" />
+      <module name="gmall-search" target="1.8" />
+      <module name="gmall-seckill" target="1.8" />
+      <module name="gmall-sms" target="1.8" />
+      <module name="gmall-ums" target="1.8" />
+      <module name="gmall-wms" target="1.8" />
+      <module name="rabbit-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gmall-admin-web" options="-parameters" />
+      <module name="gmall-cart" options="-parameters" />
+      <module name="gmall-cas" options="-parameters" />
+      <module name="gmall-cms" options="-parameters" />
+      <module name="gmall-item" options="-parameters" />
+      <module name="gmall-mbg" options="-parameters" />
+      <module name="gmall-oms" options="-parameters" />
+      <module name="gmall-order" options="-parameters" />
+      <module name="gmall-pms" options="-parameters" />
+      <module name="gmall-portal-web" options="-parameters" />
+      <module name="gmall-search" options="-parameters" />
+      <module name="gmall-seckill" options="-parameters" />
+      <module name="gmall-sms" options="-parameters" />
+      <module name="gmall-ums" options="-parameters" />
+      <module name="gmall-wms" options="-parameters" />
+      <module name="rabbit-demo" options="-parameters" />
+    </option>
+  </component>
+</project>

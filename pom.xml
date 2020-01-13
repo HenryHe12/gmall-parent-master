@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.atguigu.gmall</groupId>
+    <artifactId>gmall-parent</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+
+
+
+    <!--聚合-->
+    <modules>
+        <module>gmall-common</module>
+        <module>gmall-api</module>
+        <module>gmall-pms</module>
+        <module>gmall-admin-web</module>
+        <module>gmall-oms</module>
+        <module>gmall-sms</module>
+        <module>gmall-ums</module>
+        <module>gmall-cms</module>
+        <module>gmall-wms</module>
+        <module>gmall-mbg</module>
+        <module>gmall-portal-web</module>
+        <module>gmall-search</module>
+        <module>gmall-seckill</module>
+        <module>gmall-cart</module>
+        <module>gmall-cas</module>
+        <module>gmall-item</module>
+        <module>gmall-order</module>
+        <module>rabbit-demo</module>
+    </modules>
+
+
+
+</project>

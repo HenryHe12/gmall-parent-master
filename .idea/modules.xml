@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gmall-admin-web/gmall-admin-web.iml" filepath="$PROJECT_DIR$/gmall-admin-web/gmall-admin-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-api/gmall-api.iml" filepath="$PROJECT_DIR$/gmall-api/gmall-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-cart/gmall-cart.iml" filepath="$PROJECT_DIR$/gmall-cart/gmall-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-cas/gmall-cas.iml" filepath="$PROJECT_DIR$/gmall-cas/gmall-cas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-cms/gmall-cms.iml" filepath="$PROJECT_DIR$/gmall-cms/gmall-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-common/gmall-common.iml" filepath="$PROJECT_DIR$/gmall-common/gmall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-item/gmall-item.iml" filepath="$PROJECT_DIR$/gmall-item/gmall-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-mbg/gmall-mbg.iml" filepath="$PROJECT_DIR$/gmall-mbg/gmall-mbg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-oms/gmall-oms.iml" filepath="$PROJECT_DIR$/gmall-oms/gmall-oms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-order/gmall-order.iml" filepath="$PROJECT_DIR$/gmall-order/gmall-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-parent.iml" filepath="$PROJECT_DIR$/gmall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-pms/gmall-pms.iml" filepath="$PROJECT_DIR$/gmall-pms/gmall-pms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-portal-web/gmall-portal-web.iml" filepath="$PROJECT_DIR$/gmall-portal-web/gmall-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-search/gmall-search.iml" filepath="$PROJECT_DIR$/gmall-search/gmall-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-seckill/gmall-seckill.iml" filepath="$PROJECT_DIR$/gmall-seckill/gmall-seckill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-sms/gmall-sms.iml" filepath="$PROJECT_DIR$/gmall-sms/gmall-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-ums/gmall-ums.iml" filepath="$PROJECT_DIR$/gmall-ums/gmall-ums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-wms/gmall-wms.iml" filepath="$PROJECT_DIR$/gmall-wms/gmall-wms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit-demo/rabbit-demo.iml" filepath="$PROJECT_DIR$/rabbit-demo/rabbit-demo.iml" />
+    </modules>
+  </component>
+</project>
