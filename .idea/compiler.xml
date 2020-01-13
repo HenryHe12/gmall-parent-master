@@ -14,11 +14,13 @@
         <module name="gmall-ums" />
         <module name="gmall-order" />
         <module name="gmall-wms" />
+        <module name="gmall-java-sys" />
         <module name="gmall-cart" />
         <module name="gmall-api" />
         <module name="gmall-common" />
         <module name="gmall-admin-web" />
         <module name="gmall-mbg" />
+        <module name="gmall-php-sys" />
         <module name="gmall-cms" />
         <module name="gmall-cas" />
         <module name="rabbit-demo" />
@@ -34,10 +36,12 @@
       <module name="gmall-cms" target="1.8" />
       <module name="gmall-common" target="1.8" />
       <module name="gmall-item" target="1.8" />
+      <module name="gmall-java-sys" target="1.8" />
       <module name="gmall-mbg" target="1.8" />
       <module name="gmall-oms" target="1.8" />
       <module name="gmall-order" target="1.8" />
       <module name="gmall-parent" target="1.8" />
+      <module name="gmall-php-sys" target="1.8" />
       <module name="gmall-pms" target="1.8" />
       <module name="gmall-portal-web" target="1.8" />
       <module name="gmall-search" target="1.8" />
@@ -55,9 +59,11 @@
       <module name="gmall-cas" options="-parameters" />
       <module name="gmall-cms" options="-parameters" />
       <module name="gmall-item" options="-parameters" />
+      <module name="gmall-java-sys" options="-parameters" />
       <module name="gmall-mbg" options="-parameters" />
       <module name="gmall-oms" options="-parameters" />
       <module name="gmall-order" options="-parameters" />
+      <module name="gmall-php-sys" options="-parameters" />
       <module name="gmall-pms" options="-parameters" />
       <module name="gmall-portal-web" options="-parameters" />
       <module name="gmall-search" options="-parameters" />

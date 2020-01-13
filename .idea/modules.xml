@@ -9,10 +9,12 @@
       <module fileurl="file://$PROJECT_DIR$/gmall-cms/gmall-cms.iml" filepath="$PROJECT_DIR$/gmall-cms/gmall-cms.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-common/gmall-common.iml" filepath="$PROJECT_DIR$/gmall-common/gmall-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-item/gmall-item.iml" filepath="$PROJECT_DIR$/gmall-item/gmall-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-java-sys/gmall-java-sys.iml" filepath="$PROJECT_DIR$/gmall-java-sys/gmall-java-sys.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-mbg/gmall-mbg.iml" filepath="$PROJECT_DIR$/gmall-mbg/gmall-mbg.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-oms/gmall-oms.iml" filepath="$PROJECT_DIR$/gmall-oms/gmall-oms.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-order/gmall-order.iml" filepath="$PROJECT_DIR$/gmall-order/gmall-order.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-parent.iml" filepath="$PROJECT_DIR$/gmall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-php-sys/gmall-php-sys.iml" filepath="$PROJECT_DIR$/gmall-php-sys/gmall-php-sys.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-pms/gmall-pms.iml" filepath="$PROJECT_DIR$/gmall-pms/gmall-pms.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-portal-web/gmall-portal-web.iml" filepath="$PROJECT_DIR$/gmall-portal-web/gmall-portal-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-search/gmall-search.iml" filepath="$PROJECT_DIR$/gmall-search/gmall-search.iml" />

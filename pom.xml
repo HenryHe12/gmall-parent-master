@@ -32,6 +32,8 @@
         <module>gmall-item</module>
         <module>gmall-order</module>
         <module>rabbit-demo</module>
+        <module>gmall-php-sys</module>
+        <module>gmall-java-sys</module>
     </modules>
 
 

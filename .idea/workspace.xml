@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65b395eb-615f-4f2e-be55-376daee62070" name="Default Changelist" comment="" />
+    <list default="true" id="65b395eb-615f-4f2e-be55-376daee62070" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +82,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GmallJavaSysApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-java-sys" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallJavaSysApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GmallMbgApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="gmall-mbg" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.mbg.GmallMbgApplication" />
@@ -97,6 +106,13 @@
     <configuration name="GmallOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="gmall-order" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.order.GmallOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallPhpSysApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-php-sys" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.php.GmallPhpSysApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -175,7 +191,7 @@
       <updated>1578055932988</updated>
       <workItem from="1578055934252" duration="740000" />
       <workItem from="1578914382460" duration="431000" />
-      <workItem from="1578914890176" duration="5631000" />
+      <workItem from="1578914890176" duration="6902000" />
     </task>
     <servers />
   </component>
