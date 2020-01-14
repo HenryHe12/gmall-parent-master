@@ -2,7 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65b395eb-615f-4f2e-be55-376daee62070" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/gmall-admin-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-admin-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-admin-web/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-admin-web/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-cart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-cart/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-cas/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-cas/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-cas/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-cas/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-cms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-cms/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-cms/src/test/java/com/atguigu/gmall/cms/GmallCmsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-item/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-item/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-item/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-java-sys/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-java-sys/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-mbg/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-mbg/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-mbg/src/main/java/com/atguigu/gmall/CodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-mbg/src/main/java/com/atguigu/gmall/CodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-oms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-oms/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-order/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-order/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-order/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-order/src/main/resources/sharding.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-order/src/main/resources/sharding.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-php-sys/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-php-sys/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-pms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-pms/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-pms/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-pms/src/test/java/com/atguigu/gmall/pms/GmallPmsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-portal-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-portal-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-search/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-search/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-sms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-sms/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-sms/src/main/resources/sharding.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-sms/src/main/resources/sharding.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-sms/src/test/java/com/atguigu/gmall/sms/GmallSmsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-ums/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-ums/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-ums/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-ums/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-ums/src/test/java/com/atguigu/gmall/ums/GmallUmsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-wms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-wms/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-wms/src/test/java/com/atguigu/gmall/wms/GmallWmsApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbit-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbit-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbit-demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rabbit-demo/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +76,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RunManager" selected="Spring Boot.GmallOrderApplication">
     <configuration name="GmallAdminWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -191,7 +223,8 @@
       <updated>1578055932988</updated>
       <workItem from="1578055934252" duration="740000" />
       <workItem from="1578914382460" duration="431000" />
-      <workItem from="1578914890176" duration="6902000" />
+      <workItem from="1578914890176" duration="7608000" />
+      <workItem from="1578962491812" duration="4276000" />
     </task>
     <servers />
   </component>
@@ -207,50 +240,54 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="739" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1578915214465" />
-    <state width="1877" height="305" key="GridCell.Tab.0.bottom" timestamp="1578921292168">
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom" timestamp="1578924701463">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578921292168" />
-    <state width="1877" height="305" key="GridCell.Tab.0.center" timestamp="1578921292168">
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578924701463" />
+    <state width="1877" height="305" key="GridCell.Tab.0.center" timestamp="1578924701463">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="305" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578921292168" />
-    <state width="1877" height="305" key="GridCell.Tab.0.left" timestamp="1578921292168">
+    <state width="1877" height="305" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578924701463" />
+    <state width="1877" height="305" key="GridCell.Tab.0.left" timestamp="1578924701463">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="305" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578921292168" />
-    <state width="1877" height="305" key="GridCell.Tab.0.right" timestamp="1578921292168">
+    <state width="1877" height="305" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578924701463" />
+    <state width="1877" height="305" key="GridCell.Tab.0.right" timestamp="1578924701463">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="305" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578921292168" />
-    <state width="1877" height="305" key="GridCell.Tab.1.bottom" timestamp="1578921292169">
+    <state width="1877" height="305" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578924701463" />
+    <state width="1877" height="305" key="GridCell.Tab.1.bottom" timestamp="1578924701463">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="305" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578921292169" />
-    <state width="1877" height="305" key="GridCell.Tab.1.center" timestamp="1578921292169">
+    <state width="1877" height="305" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578924701463" />
+    <state width="1877" height="305" key="GridCell.Tab.1.center" timestamp="1578924701463">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="305" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578921292169" />
-    <state width="1877" height="305" key="GridCell.Tab.1.left" timestamp="1578921292169">
+    <state width="1877" height="305" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578924701463" />
+    <state width="1877" height="305" key="GridCell.Tab.1.left" timestamp="1578924701463">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="305" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578921292169" />
-    <state width="1877" height="305" key="GridCell.Tab.1.right" timestamp="1578921292169">
+    <state width="1877" height="305" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578924701463" />
+    <state width="1877" height="305" key="GridCell.Tab.1.right" timestamp="1578924701463">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="305" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578921292169" />
+    <state width="1877" height="305" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578924701463" />
     <state x="490" y="179" key="Maven.ArtifactSearchDialog" timestamp="1578915581918">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="490" y="179" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578915581918" />
-    <state x="453" y="166" key="SettingsEditor" timestamp="1578922536200">
+    <state x="453" y="166" key="SettingsEditor" timestamp="1578924691344">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="453" y="166" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578922536200" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1578914891237">
+    <state x="453" y="166" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578924691344" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1578962510726">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578914891237" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578962510726" />
+    <state x="737" y="226" width="659" height="813" key="find.popup" timestamp="1578966634458">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="737" y="226" width="659" height="813" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1578966634458" />
     <state x="745" y="389" key="git4idea.rebase.GitRebaseDialog" timestamp="1578922094344">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

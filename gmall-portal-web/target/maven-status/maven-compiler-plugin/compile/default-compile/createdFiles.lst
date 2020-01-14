@@ -1,0 +1,9 @@
+com\atguigu\gmall\portal\controller\SearchController.class
+com\atguigu\gmall\portal\controller\PayController.class
+com\atguigu\gmall\portal\config\AlipayConfig.class
+com\atguigu\gmall\portal\controller\OrderController.class
+com\atguigu\gmall\portal\controller\CartController.class
+com\atguigu\gmall\portal\GmallPortalWebApplication.class
+com\atguigu\gmall\portal\config\GmallGlobalExceptionHandler.class
+com\atguigu\gmall\portal\config\GmallValidatorAspect.class
+com\atguigu\gmall\portal\controller\ItemController.class

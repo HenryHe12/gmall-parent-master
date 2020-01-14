@@ -8,10 +8,6 @@
     <artifactId>gmall-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-
-
-
-
     <!--聚合-->
     <modules>
         <module>gmall-common</module>
@@ -35,7 +31,4 @@
         <module>gmall-php-sys</module>
         <module>gmall-java-sys</module>
     </modules>
-
-
-
 </project>

@@ -1,0 +1,17 @@
+com\atguigu\gmall\order\mapper\OrderReturnReasonMapper.class
+com\atguigu\gmall\order\mapper\CompanyAddressMapper.class
+com\atguigu\gmall\order\mapper\OrderItemMapper.class
+com\atguigu\gmall\order\config\GmallRedissonConfig.class
+com\atguigu\gmall\order\mapper\OrderMapper.class
+com\atguigu\gmall\order\mapper\OrderReturnApplyMapper.class
+com\atguigu\gmall\order\mapper\CartItemMapper.class
+com\atguigu\gmall\order\service\impl\OrderCloseService.class
+com\atguigu\gmall\order\config\AlipayConfig.class
+com\atguigu\gmall\order\GmallOrderApplication.class
+com\atguigu\gmall\order\controller\SecKillController.class
+com\atguigu\gmall\order\mapper\OrderOperateHistoryMapper.class
+com\atguigu\gmall\order\config\GmallRabbitConfig.class
+com\atguigu\gmall\order\mapper\OrderSettingMapper.class
+com\atguigu\gmall\order\config\GmallShardingJdbcConfig.class
+com\atguigu\gmall\order\service\impl\OrderAndPayServiceImpl.class
+com\atguigu\gmall\order\config\GmallJedisConfiguration.class
