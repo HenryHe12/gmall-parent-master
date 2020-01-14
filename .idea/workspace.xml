@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65b395eb-615f-4f2e-be55-376daee62070" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/gmall-admin-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-admin-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-admin-web/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-admin-web/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-cart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-cart/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-cas/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-cas/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-cas/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-cas/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-cms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-cms/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-cms/src/test/java/com/atguigu/gmall/cms/GmallCmsApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-item/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-item/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-item/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-item/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-java-sys/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-java-sys/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-mbg/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-mbg/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-mbg/src/main/java/com/atguigu/gmall/CodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-mbg/src/main/java/com/atguigu/gmall/CodeGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-oms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-oms/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-order/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-order/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-order/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-order/src/main/resources/sharding.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-order/src/main/resources/sharding.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-php-sys/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-php-sys/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-pms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-pms/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-pms/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-pms/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-pms/src/test/java/com/atguigu/gmall/pms/GmallPmsApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-portal-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-portal-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-search/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-search/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-sms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-sms/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-sms/src/main/resources/sharding.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-sms/src/main/resources/sharding.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-sms/src/test/java/com/atguigu/gmall/sms/GmallSmsApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-ums/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-ums/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-ums/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-ums/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-ums/src/test/java/com/atguigu/gmall/ums/GmallUmsApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-wms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-wms/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmall-wms/src/test/java/com/atguigu/gmall/wms/GmallWmsApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbit-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbit-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbit-demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rabbit-demo/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="65b395eb-615f-4f2e-be55-376daee62070" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -224,7 +190,7 @@
       <workItem from="1578055934252" duration="740000" />
       <workItem from="1578914382460" duration="431000" />
       <workItem from="1578914890176" duration="7608000" />
-      <workItem from="1578962491812" duration="4276000" />
+      <workItem from="1578962491812" duration="4784000" />
     </task>
     <servers />
   </component>

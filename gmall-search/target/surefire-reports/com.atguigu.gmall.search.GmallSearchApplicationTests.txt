@@ -1,9 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.atguigu.gmall.search.GmallSearchApplicationTests
--------------------------------------------------------------------------------
-Tests run: 7, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 14.936 s <<< FAILURE! - in com.atguigu.gmall.search.GmallSearchApplicationTests
-aggs(com.atguigu.gmall.search.GmallSearchApplicationTests)  Time elapsed: 0.142 s  <<< ERROR!
-java.lang.NullPointerException
-	at com.atguigu.gmall.search.GmallSearchApplicationTests.printResult(GmallSearchApplicationTests.java:255)
-	at com.atguigu.gmall.search.GmallSearchApplicationTests.aggs(GmallSearchApplicationTests.java:238)
-

@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.atguigu.gmall.cart.GmallCartApplicationTests
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.575 s <<< FAILURE! - in com.atguigu.gmall.cart.GmallCartApplicationTests
-contextLoads(com.atguigu.gmall.cart.GmallCartApplicationTests)  Time elapsed: 0.003 s  <<< ERROR!
-java.lang.NullPointerException
-	at com.atguigu.gmall.cart.GmallCartApplicationTests.contextLoads(GmallCartApplicationTests.java:45)
-

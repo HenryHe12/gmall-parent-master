@@ -1,6 +1,0 @@
-com\atguigu\rabbit\config\MyRabbitConfig.class
-com\atguigu\rabbit\RabbitDemoApplication.class
-com\atguigu\rabbit\service\RabbitService.class
-com\atguigu\rabbit\bean\User.class
-com\atguigu\rabbit\controller\RabbitController.class
-com\atguigu\rabbit\bean\Order.class
